@@ -2,8 +2,7 @@
 
 2. Mi-a atras atentia cel mai mult cand s-a vorbit de smart cities si diferitele implementari care se vor efectua.
 
-<<<<<<< HEAD
+
 3. As reduce monologul si as incerca sa fac sa fie cat mai interactiv. Persoana care prezinta sa fie mai vocala cu cei din jur si sa incerce sa capteze cat mai mult atentia ascultatorilor
-=======
-3. As reduce monologul si as incerca sa fac sa fie cat mai interactiv. Persoana care prezinta sa fie mai vocala cu cei din jur si sa incerce sa capteze cat mai mult atentia ascultatorilor.
->>>>>>> 70181bb (last time)
+
+
